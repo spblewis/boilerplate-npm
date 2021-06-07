@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Schuyler Lewis",
 	"description": "A project for learning NPM",
+	"keywords": [ "freecodecamp", "learning", "npm" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
