@@ -4,7 +4,8 @@
 	"description": "A project for learning NPM",
 	"keywords": [ "freecodecamp", "learning", "npm" ],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"license": "MIT",
 	"main": "server.js",
